@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-10-13T09:50:19.584Z",
+  "target": 300,
+  "featuredTeamDistribution": {
+    "England": 30,
+    "India": 30,
+    "Australia": 30,
+    "New Zealand": 30,
+    "South Africa": 30,
+    "Pakistan": 30,
+    "West Indies": 30,
+    "Bangladesh": 30,
+    "Sri Lanka": 30,
+    "Afghanistan": 30
+  },
+  "answerCountryGroupDistribution": {
+    "England": 30,
+    "India": 30,
+    "Australia": 30,
+    "New Zealand": 30,
+    "South Africa": 30,
+    "Pakistan": 30,
+    "West Indies": 30,
+    "Bangladesh": 30,
+    "Sri Lanka": 30,
+    "Afghanistan": 30
+  },
+  "qualityChecks": {
+    "totalQuestions": true,
+    "exactlyThirtyFeatured": true,
+    "exactlyThirtyAnswerGroups": true,
+    "permittedAnswerRegions": true,
+    "uniqueIds": true,
+    "validCoordinates": true,
+    "verifiedMetadata": true,
+    "publicAirGap": true,
+    "uniqueFiveQuestionRounds": true
+  },
+  "summary": {
+    "totalQuestions": 300,
+    "verifiedQuestions": 6,
+    "unresolvedQuestions": 294,
+    "exactDuplicatePromptGroups": 14,
+    "rounds": 60
+  }
+}

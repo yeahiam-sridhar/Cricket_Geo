@@ -1,0 +1,438 @@
+{
+  "url": "https://geosports.app",
+  "timestamp": "2026-10-13T13:30:08.075Z",
+  "pageDetails": {
+    "title": "GeoSports — Daily sports geography game",
+    "buttons": [
+      {
+        "tag": "A",
+        "text": "Kendall Baker",
+        "href": "https://x.com/kendallbaker",
+        "classes": "shrink-0 font-bold text-blue-400 text-xs sm:text-sm underline underline-offset-2 hover:opacity-80 transition"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "href": null,
+        "classes": "p-2 -ml-2 text-white"
+      },
+      {
+        "tag": "A",
+        "text": "GeoSports",
+        "href": "/",
+        "classes": "text-lg font-bold text-white tracking-tight"
+      },
+      {
+        "tag": "A",
+        "text": "Get app",
+        "href": "/get",
+        "classes": "mr-3 inline-flex items-center gap-2 rounded-full border border-[#4d7cff] bg-[linear-gradient(180deg,#1b294c,#152039)] px-3.5 py-2 text-xs font-extrabold uppercase tracking-wide text-white shadow-[0_0_16px_-8px_rgba(77,124,255,0.7)] md:hidden"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Get the app",
+        "href": null,
+        "classes": "inline-flex items-center gap-2 rounded-full border border-[#4d7cff] bg-[linear-gradient(180deg,#1b294c,#152039)] px-4 py-2 text-sm font-bold text-white shadow-[0_0_16px_-8px_rgba(77,124,255,0.7)] transition hover:brightness-110"
+      },
+      {
+        "tag": "A",
+        "text": "Sign in",
+        "href": "/login",
+        "classes": "text-blue-400 hover:text-blue-300 transition-colors font-semibold"
+      },
+      {
+        "tag": "A",
+        "text": "Today's Round",
+        "href": "/play",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Today's Results",
+        "href": "/results",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Stats",
+        "href": "/me",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Groups",
+        "href": "/groups",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Home",
+        "href": "/pro",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Sport Specific",
+        "href": "/pro",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Random Rounds",
+        "href": "/pro",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Previous Days",
+        "href": "/pro",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Pro Leaderboard",
+        "href": "/pro",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Upgrade to Pro",
+        "href": "/pro",
+        "classes": "block px-5 py-3 text-sm transition-colors text-blue-400 font-semibold hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "How Scoring Works",
+        "href": "/how-it-works",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Submit a question",
+        "href": "/questions",
+        "classes": "block px-5 py-3 text-sm transition-colors text-white hover:bg-white/[0.04]"
+      },
+      {
+        "tag": "A",
+        "text": "Follow on X\n↗",
+        "href": "https://x.com/PlayGeoGames",
+        "classes": "flex items-center justify-between px-5 py-3 text-sm text-white hover:bg-white/[0.04] transition-colors"
+      },
+      {
+        "tag": "A",
+        "text": "Play today’s round →",
+        "href": "/play",
+        "classes": "rounded-full bg-blue-600 px-8 py-3 text-base font-semibold text-white transition active:scale-95"
+      }
+    ],
+    "globals": {
+      "hasHowler": false,
+      "hasAudioContext": true,
+      "audioElementsCount": 0
+    }
+  },
+  "gameElements": {
+    "hasCanvas": true,
+    "canvasSize": {
+      "width": 1200,
+      "height": 550
+    },
+    "maplibregl": false,
+    "mapboxgl": false,
+    "url": "https://geosports.app/play",
+    "htmlLength": 34472
+  },
+  "audioRequests": [],
+  "capturedAudioEvents": [
+    "[AudioHook] OscillatorNode.start(): type=triangle, freq=880Hz, time=13084.5ms"
+  ],
+  "consoleLog": [
+    {
+      "type": "debug",
+      "text": "[PageOS]:[Confiant] initConfiant called {pwConfiantSettings: null, isEnabled: false}",
+      "time": 1791898195434
+    },
+    {
+      "type": "log",
+      "text": "Visibility threshold pct=50, Visibility threshold ms = 0",
+      "time": 1791898196508
+    },
+    {
+      "type": "log",
+      "text": "[27, 1, 1, undefined]",
+      "time": 1791898196651
+    },
+    {
+      "type": "log",
+      "text": "[27, 1, 1, undefined]",
+      "time": 1791898196652
+    },
+    {
+      "type": "error",
+      "text": "Access to fetch at 'https://be.durationmedia.net/lg' from origin 'https://geosports.app' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+      "time": 1791898196861
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_FAILED",
+      "time": 1791898196861
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 451 ()",
+      "time": 1791898197134
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS",
+      "time": 1791898202624
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205419
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205491
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205560
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205630
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205700
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205769
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205837
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205907
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898205976
+    },
+    {
+      "type": "log",
+      "text": "[AudioHook] OscillatorNode.start(): type=triangle, freq=880Hz, time=13084.5ms",
+      "time": 1791898207294
+    },
+    {
+      "type": "warning",
+      "text": "performance warning: READ-usage buffer was written, then fenced, but written again before being read back. This discarded the shadow copy that was created to accelerate readback.",
+      "time": 1791898207928
+    }
+  ],
+  "networkLogSample": [
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://geosports.app/api/auth/get-session",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://geosports.app/api/v2/questions",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://geosports.app/api/pro/entitlement",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://geosports.app/api/pro/entitlement",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-0HF2JMEG7J&gtm=45je6a91v9257865068za208zd9257865068xf1&_p=1791898194754&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&cid=14404852.1791898195&frm=0&pscdl=noapi&rcb=6&sr=1280x800&uaa=x86&uab=64&uafvl=Microsoft%2520Edge%3B155.0.4283.45%7CChromium%3B155.0.8059.40%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&sid=1791898195&sct=1&seg=0&dl=https%3A%2F%2Fgeosports.app%2F&dt=GeoSports%20%E2%80%94%20Daily%20sports%20geography%20game&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=984",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://btloader.com/tag?o=5150306120761344&upapi=true",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://cdn.btloader.com/cchecker.html?upapi=true",
+      "type": "document",
+      "method": "GET"
+    },
+    {
+      "url": "https://btloader.com/trustedIframe.html?o=5150306120761344&upapi=true",
+      "type": "document",
+      "method": "GET"
+    },
+    {
+      "url": "https://cdn.api.btloader.com/device?orgid=5150306120761344&platformVersion=10.0&fullVersionList=%5B%7B%22brand%22%3A%22Microsoft+Edge%22%2C%22version%22%3A%22155.0.4283.45%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155.0.8059.40%22%7D%2C%7B%22brand%22%3A%22Not%28A%3ABrand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D&upapi=true",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://cdn.id5-sync.com/api/1.0/id5-api.js",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://api.btloader.com/exd?tid=WqwH5snpqW-lA5CT2YQR-a135749873&sid=Gl6D4cUCn-DJuJX3gYT-a135749873&cv=2.1.196&upapi=true",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/483/id5-api-js",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://id5-sync.com/api/config/prebid",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://api.rlcdn.com/api/identity/envelope?pid=13250",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://fid.agkn.com/f?apiKey=2104320612&r=https%3A%2F%2Fgeosports.app%2F",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://script-api.ccgateway.net/1/userId",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://script-api.ccgateway.net/script/launcher/2/user.js",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://script-api.ccgateway.net/script/launcher/1/customevents.js",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://script-api.ccgateway.net/script/launcher/6/api.js",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://script-api.ccgateway.net/setUser?parent=5bb3e20859&site=geosports.app&ccuid=33863450-581a-4e7a-bb52-92761a0bb544&ccsid=a08dde56-c1a0-469e-87ab-97f44076d925",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://script-api.ccgateway.net/script/bundle?id=geosports.app&parentId=5bb3e20859",
+      "type": "script",
+      "method": "GET"
+    },
+    {
+      "url": "https://id5-sync.com/i/483/8.gif?o=api&id5id=ID5*T4LWzL91v4FTNFyaLNWk0IaaXD5dwjF5THwiwwr6gtv__2rOMlVaAAEBCmrOMlQA7NXic6bFxlQq5VIj9pcIaA&gdpr_consent=undefined&gdpr=false",
+      "type": "image",
+      "method": "GET"
+    },
+    {
+      "url": "https://api.btloader.com/country?o=5150306120761344",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://api.btloader.com/pv?nlf=false&tid=WqwH5snpqW-lA5CT2YQR-a135749873&sid=Gl6D4cUCn-DJuJX3gYT-a135749873&cv=2.1.196&upapi=true",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-0HF2JMEG7J&gtm=45je6a91v9257865068za200zd9257865068xf1&_p=1791898194754&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAGQ&ae=a&cid=14404852.1791898195&frm=0&pscdl=noapi&rcb=6&sr=1280x800&uaa=x86&uab=64&uafvl=Microsoft%2520Edge%3B155.0.4283.45%7CChromium%3B155.0.8059.40%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&sid=1791898195&sct=1&seg=0&dl=https%3A%2F%2Fgeosports.app%2F&dt=GeoSports%20%E2%80%94%20Daily%20sports%20geography%20game&en=scroll&epn.percent_scrolled=90&_et=5&tfd=5992",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://crb.kargo.com/api/v1/dsync/Eyeota?gdpr=0&gdpr_consent=&r=https%3A%2F%2Fps.eyeota.net%2Fmatch%3Fbid%3D63ri0ru%26uid%3D%24UID%26referrer_pid%3Dm51mh00",
+      "type": "image",
+      "method": "GET"
+    },
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://o4510047626854400.ingest.us.sentry.io/api/4511377444569088/envelope/?sentry_version=7&sentry_key=521d0c45cc4d60df0ceda285f42a4aa0&sentry_client=sentry.javascript.nextjs%2F10.53.1",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://api.btloader.com/pv?nlf=false&tid=8Ud18H8AS-WS4CjaYi6-a13574ba71&sid=Gl6D4cUCn-DJuJX3gYT-a135749873&cv=2.1.196&upapi=true",
+      "type": "fetch",
+      "method": "POST"
+    },
+    {
+      "url": "https://geosports.app/api/v2/questions",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://geosports.app/api/pro/entitlement",
+      "type": "fetch",
+      "method": "GET"
+    },
+    {
+      "url": "https://geosports.app/api/v2/play/guess",
+      "type": "fetch",
+      "method": "POST"
+    }
+  ]
+}

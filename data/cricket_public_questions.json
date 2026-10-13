@@ -1,0 +1,2734 @@
+{
+  "rounds": [
+    {
+      "date": "2026-10-12",
+      "questions": [
+        {
+          "id": "E001",
+          "prompt": "At which London ground did England clinch the 2019 ODI World Cup, beating New Zealand on boundary count after a tied Super Over?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I001",
+          "prompt": "Where did MS Dhoni hit the winning six to give India its second ODI World Cup title in the 2011 final against Sri Lanka?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A001",
+          "prompt": "At which Melbourne ground did Australia defeat New Zealand to win the 2015 Cricket World Cup final before 93,000 fans?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N001",
+          "prompt": "At which ground did New Zealand reach their maiden ODI World Cup final in 2015, only to lose to Australia at the MCG?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S001",
+          "prompt": "At which Cape Town ground did AB de Villiers hit the fastest ODI century in history, off just 31 balls against West Indies in 2015?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "questions": [
+        {
+          "id": "P001",
+          "prompt": "At which Lahore ground did Sri Lanka win the 1996 World Cup by beating Australia in the final?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Pakistan",
+          "verification": {
+            "eventSourceUrl": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_final",
+            "venueSourceUrl": "https://www.espncricinfo.com/series/wills-world-cup-1995-96-60981/australia-vs-sri-lanka-final-65192/match-report",
+            "locationSourceUrl": "https://www.openstreetmap.org/way/172700971"
+          }
+        },
+        {
+          "id": "W001",
+          "prompt": "At which St. John's ground did Brian Lara score 400 not out against England in 2004 — the highest individual score in Test history?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "West Indies",
+          "verification": {
+            "eventSourceUrl": "https://www.espncricinfo.com/series/england-tour-of-west-indies-2003-04-61748/west-indies-vs-england-4th-test-64080/match-report",
+            "venueSourceUrl": "https://en.wikipedia.org/wiki/Antigua_Recreation_Ground",
+            "locationSourceUrl": "https://www.openstreetmap.org/way/19881397"
+          }
+        },
+        {
+          "id": "B001",
+          "prompt": "At which Mirpur ground did Bangladesh earn a stunning victory over England in a 2016 Test, continuing their remarkable home dominance?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL001",
+          "prompt": "At which coastal cricket stadium in Galle did Muttiah Muralitharan claim his 800th Test wicket in July 2010?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka",
+          "verification": {
+            "eventSourceUrl": "https://www.espncricinfo.com/series/india-tour-of-sri-lanka-2010-456401/sri-lanka-vs-india-1st-test-456412/match-report",
+            "venueSourceUrl": "https://en.wikipedia.org/wiki/Galle_International_Stadium",
+            "locationSourceUrl": "https://www.openstreetmap.org/way/232724482"
+          }
+        },
+        {
+          "id": "AF001",
+          "prompt": "At which Lucknow ground did Afghanistan beat England by 69 runs in the 2023 ODI World Cup, causing a major upset?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "questions": [
+        {
+          "id": "P026",
+          "prompt": "Where did Pakistan beat India by 10 wickets in the 2021 T20 World Cup — their first World Cup win over India in any format?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "T20",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W019",
+          "prompt": "In which city in Trinidad is Queen's Park Oval — a ground where Michael Holding and Andy Roberts terrorised batsmen in the 1970s?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B015",
+          "prompt": "At which ground did Bangladesh beat Pakistan by 5 wickets in the 2012 Asia Cup, causing a major upset?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "ODI",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL030",
+          "prompt": "At which Moratuwa ground near Colombo did Sri Lanka beat Australia in a 2004 Test, using Muralitharan's spin to great effect?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF017",
+          "prompt": "At which Sydney ground did Afghanistan play their famous match against Scotland in the 2014 T20 World Cup?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "questions": [
+        {
+          "id": "E007",
+          "prompt": "In which Durham city is the home ground of England cricketer Ben Stokes, and where he played domestic cricket for many years?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I023",
+          "prompt": "In which city is the Feroz Shah Kotla stadium, now known as the Arun Jaitley Stadium, a venue closely associated with Virender Sehwag?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A025",
+          "prompt": "In which Victorian town was Richie Benaud born — the beloved commentator and Australia's great all-rounder captain?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N009",
+          "prompt": "Where did Trent Boult take 5 wickets in a World Cup match against Australia in 2015 — on New Zealand home soil?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S006",
+          "prompt": "At which Durban ground did South Africa famously need just 1 run to win off the last ball in the 1999 World Cup semi-final but tied with Australia?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "questions": [
+        {
+          "id": "E016",
+          "prompt": "At which Hampshire ground did England Women host the first women's Test to be played under floodlights?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I017",
+          "prompt": "In which Mumbai suburb is the Wankhede Stadium, the home of the Mumbai Indians and India Test cricket?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A003",
+          "prompt": "At which iconic Sydney ground did Don Bradman score 334 against England in 1930, then a world Test record?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N030",
+          "prompt": "At which famous North Island ground did McCullum hit 302 against India in 2014, then the highest Test score by a New Zealander?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S030",
+          "prompt": "Where did South Africa Women beat England Women in a 2022 Commonwealth Games cricket final held in Birmingham?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Women's",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "questions": [
+        {
+          "id": "P002",
+          "prompt": "In which Lahore city was Wasim Akram born — the legendary swing bowler who took 916 international wickets?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W023",
+          "prompt": "In which St Lucia city is the Daren Sammy National Cricket Stadium, a venue used by West Indies for Tests?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B020",
+          "prompt": "In which division of Bangladesh is Bogra — the hometown of Bangladesh wicket-keeper Mushfiqur Rahim?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL014",
+          "prompt": "In which city was Sanath Jayasuriya born — the explosive opening batsman who redefined batting in the 1996 World Cup?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF025",
+          "prompt": "At which ground did Afghanistan play Zimbabwe in the first Test ever to be played in Afghanistan on Afghan soil in 2023?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "questions": [
+        {
+          "id": "P030",
+          "prompt": "At which ground did Shoaib Akhtar bowl his famous 161.3 km/h delivery to Nick Knight that remains the fastest recorded ball?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W004",
+          "prompt": "In which Jamaica city is Sabina Park, the famous fast-bowling fortress where many batsmen have feared for their careers?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B021",
+          "prompt": "At which ground did Bangladesh Women play their home matches in the 2024 ICC Women's T20 World Cup?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Women's",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL006",
+          "prompt": "In which city is the Sinhalese Sports Club Ground, Sri Lanka's premier Test venue and home of domestic giants?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF010",
+          "prompt": "In which Pakistani city near the border did many Afghan cricketers develop their game before the national team existed?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "questions": [
+        {
+          "id": "E002",
+          "prompt": "At which Headingley ground did Ben Stokes hit an unbeaten 135 to win an impossible Test chase against Australia in the 2019 Ashes?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I003",
+          "prompt": "At which ground did Sachin Tendulkar score his 100th international century, a landmark no other cricketer has reached?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A020",
+          "prompt": "Where did Australia beat Pakistan to win the 2021 T20 World Cup final at the Dubai International Stadium?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N023",
+          "prompt": "In which city is the Oval cricket ground where New Zealand Women played their first Women's Ashes Test at home?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S029",
+          "prompt": "In which Gauteng city is the Wanderers Stadium, also known as 'The Bullring', a feared fast-bowling venue?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "questions": [
+        {
+          "id": "E006",
+          "prompt": "At which Lancashire ground did James Anderson take his 600th Test wicket, becoming the first pace bowler to reach the landmark?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I021",
+          "prompt": "Where did Kapil Dev take the legendary catch to dismiss Viv Richards in the 1983 World Cup final, changing cricket history?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A012",
+          "prompt": "In which Sydney suburb is the Sydney Cricket Ground, one of Australia's oldest cricket venues hosting Tests since 1882?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N005",
+          "prompt": "Where did Ross Taylor score 290 against Australia in a 2015 Test — New Zealand's highest individual Test score at the time?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S012",
+          "prompt": "At which Kingsmead ground in Durban did South Africa beat England by 10 wickets in a Test to go 1–0 up in a crucial Basil D'Oliveira-era series?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "questions": [
+        {
+          "id": "P029",
+          "prompt": "In which city is the United Bank Limited Sports Complex, a key domestic cricket ground in Karachi used by Pakistan domestic teams?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Domestic",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W027",
+          "prompt": "At which Jamaica ground did West Indies play their first ever home T20I against South Africa in 2010?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B012",
+          "prompt": "In which city is the MA Aziz Stadium, Bangladesh's oldest cricket ground and a venue for early Test matches?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL009",
+          "prompt": "At which Galle ground, rebuilt after the 2004 tsunami, did Sri Lanka beat England by 75 runs in a 2012 Test?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF019",
+          "prompt": "At which ground did Afghanistan beat Ireland in a 2012 T20 World Cup Qualifier final to earn full T20I membership?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "questions": [
+        {
+          "id": "P007",
+          "prompt": "At which Karachi ground did Hanif Mohammad bat for 16 hours and 10 minutes in 1958, in the longest innings in Test history?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W020",
+          "prompt": "At which ground did Hayley Matthews score her maiden T20I century — a record-breaking knock for the West Indies Women?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B013",
+          "prompt": "At which Mirpur ground did Mashrafe Mortaza take 6 wickets to guide Bangladesh to a famous win over Pakistan in 2011?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "ODI",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL020",
+          "prompt": "Where did Sri Lanka Women win the gold medal in cricket at the 2022 Commonwealth Games?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF006",
+          "prompt": "In which Afghan city is the Kabul International Cricket Ground, Afghanistan's national stadium?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "questions": [
+        {
+          "id": "E004",
+          "prompt": "Where did England beat Australia in the deciding 5th Test of the 2005 Ashes, a series described as the greatest ever?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I002",
+          "prompt": "In which small town in Jharkhand was MS Dhoni born, before becoming one of cricket's greatest captains?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A021",
+          "prompt": "In which city is the Gabba cricket ground, Australia's traditional first Test venue of each home summer?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N003",
+          "prompt": "At which historic Wellington ground did Brendon McCullum score the fastest Test century in history, off just 54 balls in 2016?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S023",
+          "prompt": "In which Gauteng city was South African fast bowler Morne Morkel born?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "questions": [
+        {
+          "id": "E024",
+          "prompt": "At which Edgbaston ground did England's bowlers dismiss India for 36 in the first innings of a 1996 Test match?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I022",
+          "prompt": "At which Chennai ground did R. Ashwin take 7–83 against West Indies in 2011, one of India's best spin-bowling performances at home?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A007",
+          "prompt": "At which ground did Ellyse Perry score 213* in a Women's Ashes Test in 2017-18, the highest individual score in Women's Ashes history?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N018",
+          "prompt": "At which scenic Mt Eden ground did New Zealand Women play Women's T20Is in Auckland during home series?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S027",
+          "prompt": "At which ground did South Africa bowl England out for 76 in a 2016 Test, with Vernon Philander starring with the ball?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "questions": [
+        {
+          "id": "P022",
+          "prompt": "In which city is the Pindi Cricket Stadium, which hosted Pakistan's first home Test in 16 years?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W009",
+          "prompt": "In which St Kitts and Nevis island is the Warner Park ground — a venue that has hosted West Indies international matches?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B017",
+          "prompt": "In which northern Bangladesh city is the Sylhet International Cricket Stadium, a modern ground added to Bangladesh's Test circuit?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL023",
+          "prompt": "Where did Sri Lanka beat England in a 2001 Test at the SSC in Colombo, the ground of the dominant Sinhalese Sports Club?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF011",
+          "prompt": "At which ground did Afghanistan make their maiden T20 World Cup final, beating South Africa in the 2024 semi-final?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "T20",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "questions": [
+        {
+          "id": "P016",
+          "prompt": "In which city is Gaddafi Stadium, Pakistan's second-largest cricket ground and home of Lahore cricket?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W030",
+          "prompt": "At which Dominica ground did West Indies beat Zimbabwe in a 2009 Test — the first international cricket match held on that island?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B029",
+          "prompt": "In which city is Cox's Bazar Stadium, a ground with one of the most scenic backdrops in world cricket — the Bay of Bengal?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL002",
+          "prompt": "In which city was Kumar Sangakkara born — the wicket-keeper batsman who scored more Test runs than any Sri Lankan in history?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF026",
+          "prompt": "In which city was Shapoor Zadran born — the tall left-arm pace bowler who starred in Afghanistan's early international years?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "questions": [
+        {
+          "id": "E023",
+          "prompt": "At which ground did England Women beat South Africa to reach the 2023 Women's T20 World Cup semi-finals?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I027",
+          "prompt": "Where did India Women win the 2020 T20 Women's World Cup, losing the final to Australia at the MCG before 86,000 fans?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Women's",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A029",
+          "prompt": "In which city is the Manuka Oval ground where Australia regularly play ODIs and Tests in the national capital region?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N007",
+          "prompt": "In which city was Martin Crowe born — New Zealand's greatest-ever Test batsman with a career average of nearly 46?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S024",
+          "prompt": "At which Newlands ground did South Africa clinch their famous 2008 Test series win in Australia when they beat them back in Cape Town?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "questions": [
+        {
+          "id": "E027",
+          "prompt": "At which ground did England debutant Ollie Pope score a century on Test debut against New Zealand in 2018?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I009",
+          "prompt": "In which city was Rohit Sharma born, a city in Maharashtra that is also the commercial capital of India?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A008",
+          "prompt": "In which Melbourne suburb was Steve Smith born, the batsman who holds the record for most Test centuries by any Australian?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N021",
+          "prompt": "In which city is the McLean Park ground, a regular venue for New Zealand Tests since 1990?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S009",
+          "prompt": "Where did Mignon du Preez score 99 in a Women's ODI against England — just missing a century in a key Women's World Cup group game?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "questions": [
+        {
+          "id": "P027",
+          "prompt": "In which city is the Iqbal Stadium, a ground strongly associated with 1990s Pakistan cricket and Wasim Akram's home region?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W013",
+          "prompt": "Where did West Indies win their first T20 World Cup in 2012, beating Sri Lanka in the final in Sri Lanka?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B011",
+          "prompt": "Where did Mushfiqur Rahim score 200 against Sri Lanka — Bangladesh's first Test double century and highest individual score?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL019",
+          "prompt": "At which Kandy ground did Sri Lanka beat Pakistan in a 2000 Test in the picturesque Asgiriya Stadium?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF024",
+          "prompt": "In which Afghan city is the Herat Cricket Stadium, a ground that has hosted the regional Afghan Premier League?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Domestic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "questions": [
+        {
+          "id": "P011",
+          "prompt": "At which Lord's ground did Pakistan beat England in the 1992 World Cup final, with Wasim Akram taking 3 wickets?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W017",
+          "prompt": "In which Barbados was Garfield Sobers born — the man many consider the greatest all-rounder in cricket history?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B016",
+          "prompt": "Where was Bangladesh's first-ever international fixture played — an ODI against Pakistan in Lahore in 1986?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL005",
+          "prompt": "At which Colombo ground did Jayawardene score 374 against South Africa in 2006 — then a world record?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF029",
+          "prompt": "At which Irish ground did Afghanistan beat Ireland in the 2014 ICC Intercontinental Cup — another key step toward Test status?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "questions": [
+        {
+          "id": "E020",
+          "prompt": "Where did England beat the West Indies in a crucial match in the 1979 World Cup at the famous Lord's amphitheatre?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I010",
+          "prompt": "At which Chennai ground did Sunil Gavaskar score 236 not out against West Indies in 1983, then India's highest Test score?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A006",
+          "prompt": "In which western Australian city is the WACA ground, where Australia famously exploited the 'Fremantle Doctor' wind to trouble batsmen?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N006",
+          "prompt": "At which Christchurch oval, rebuilt after the 2011 earthquake, did New Zealand host their first Test on the new ground in 2014?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S018",
+          "prompt": "At which ground did South Africa beat Australia by 7 wickets in the 2nd Test of the 2023-24 series, their first series win in Australia since 2008?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "questions": [
+        {
+          "id": "E026",
+          "prompt": "At which Yorkshire ground did Fred Trueman play most of his county cricket, the ground hosting Ashes Tests since 1899?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I025",
+          "prompt": "At which ground in Hyderabad did India play their first-ever Test match on home soil, against England in 1952?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A030",
+          "prompt": "At which ground did Nathan Lyon take his 400th Test wicket, becoming only the second Australian to achieve this milestone?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N028",
+          "prompt": "At which ground did New Zealand beat South Africa in the 2021 WTC semi-final — the crucial game that put them in the final?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S026",
+          "prompt": "In which South African province is the Boland Park ground — a domestic venue associated with Cape Cobras cricket?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Domestic",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "questions": [
+        {
+          "id": "P025",
+          "prompt": "At which Karachi stadium did Pakistan beat England in the final Test of a 1987 series that was filled with controversy?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W011",
+          "prompt": "In which Antiguan city was Viv Richards born — one of the greatest batsmen to play the game?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B003",
+          "prompt": "At which Chittagong ground did Bangladesh beat New Zealand by 43 runs in a shock 2008 Test victory?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL008",
+          "prompt": "In which city was Lasith Malinga born — the unorthodox slingy fast bowler who became Sri Lanka's all-time leading wicket-taker in T20Is?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF013",
+          "prompt": "At which ground did Afghanistan win their first ODI World Cup match, beating Bangladesh in 2015?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "questions": [
+        {
+          "id": "P005",
+          "prompt": "At which Lahore ground did Shaheen Shah Afridi take 6 wickets on debut against Sri Lanka in the 2019 Test series?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W006",
+          "prompt": "At which Trinidad ground did the famous 'Tied Test' of 1960-61 take place between West Indies and Australia?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B028",
+          "prompt": "Where did Bangladesh beat Australia in a 2021 T20I series — the first time they had beaten Australia in a T20I series?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL024",
+          "prompt": "At which ground did Chamari Athapaththu score a record 112* off 56 balls against India in a 2022 Women's T20I?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF018",
+          "prompt": "In which Afghan province is Jalalabad, another city where cricket was developed through refugee communities returning from Pakistan?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "questions": [
+        {
+          "id": "E013",
+          "prompt": "In which Somerset town is Nat Sciver-Brunt's home county ground, where she has often played domestic cricket?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I016",
+          "prompt": "At which Bangalore ground did Virat Kohli score his first Test century, against Bangladesh in 2011?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A026",
+          "prompt": "At which ground did Australia beat England in the deciding Ashes Test of 2021-22 to regain the urn 4–0?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N026",
+          "prompt": "At which ground did Tim Southee take 7–33 against England in a 2014 World Cup match — the best bowling figures in a World Cup match at that time?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S008",
+          "prompt": "At which Johannesburg ground did Jacques Kallis score his 40th and final Test century — against Pakistan in 2012-13?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "questions": [
+        {
+          "id": "E003",
+          "prompt": "In which city was England fast-bowling legend James Anderson born, near Lancashire's county cricket home?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I026",
+          "prompt": "In which Rajasthan city is Rajasthan Royals' home ground, where Yusuf Pathan famously smashed Shane Warne's squad in IPL Season 1?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Domestic",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A010",
+          "prompt": "Where did Glenn McGrath make his Test debut, against New Zealand in Perth in 1993?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N022",
+          "prompt": "At which ground did Glenn Turner score 223* for New Zealand against West Indies in a 1972 Test — then NZ's highest individual score?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S007",
+          "prompt": "In which Eastern Cape city was Jonty Rhodes born — the fielder who revolutionised close-in fielding with his incredible athleticism?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "questions": [
+        {
+          "id": "P003",
+          "prompt": "At which Karachi ground did Imran Khan captain Pakistan to their first World Cup victory in 1992 — but the final was held in Melbourne?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W026",
+          "prompt": "In which Trinidadian city is the Brian Lara Cricket Academy, developed to nurture young West Indian cricketers?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B024",
+          "prompt": "At which ground did Bangladesh beat India by 15 runs in a 2007 World Cup group match — one of cricket's great upsets?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL012",
+          "prompt": "In which city is the Rangiri Dambulla International Stadium, a ground cut into the hills of central Sri Lanka?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF014",
+          "prompt": "In which northern Afghan city is the Kunduz Cricket Stadium, the ground that has hosted Afghanistan A cricket?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "questions": [
+        {
+          "id": "P024",
+          "prompt": "In which city was Muhammad Yousuf (formerly Yousuf Youhana) born — the batsman who scored 1,788 Test runs in a calendar year in 2006?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W024",
+          "prompt": "At which Guyana ground did Stafanie Taylor lead West Indies Women to a series win over South Africa Women?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B004",
+          "prompt": "In which Bangladesh capital city is the Shere Bangla National Stadium, the country's premier cricket venue?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL017",
+          "prompt": "At which ground did Sri Lanka beat India in the semi-final of the 2009 ICC World T20 held in England?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF016",
+          "prompt": "In which city was Rahmanullah Gurbaz born — Afghanistan's explosive wicket-keeper batsman and T20 star?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "questions": [
+        {
+          "id": "E014",
+          "prompt": "At which ground did England clinch a historic 3–0 Test series win over India in 2024, completing a remarkable Bazball comeback?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I007",
+          "prompt": "In which Gujarat city did Virat Kohli score his 50th ODI century, overtaking Sachin Tendulkar's record of 49 in 2023?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A017",
+          "prompt": "At which ground did Australia beat Pakistan by 6 wickets in the 1999 World Cup final at Lord's?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N012",
+          "prompt": "Where did New Zealand play their first-ever T20 World Cup final, in the 2021 edition, losing to Australia?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S003",
+          "prompt": "At which iconic Wanderers ground in Johannesburg did South Africa score 438/9 against Australia in 2006 — then the highest ODI total ever?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "ODI",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "questions": [
+        {
+          "id": "E015",
+          "prompt": "Where did Kevin Pietersen score 158 in the 2005 Ashes, saving a draw and setting England up to win back the urn?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I013",
+          "prompt": "At which iconic Eden Gardens ground did India beat Pakistan in the 1987 World Cup semi-final?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A022",
+          "prompt": "At which Adelaide Oval did Australia beat England Women in the final of the 2022 Women's World Cup?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Women's",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N011",
+          "prompt": "At which ground did Sophie Devine score 100* off 36 balls in a T20I against Pakistan in 2024 — New Zealand's fastest T20I century?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S015",
+          "prompt": "Where did South Africa beat England by 280 runs in a 2004 Test to record one of their biggest wins against England on English soil?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "questions": [
+        {
+          "id": "P008",
+          "prompt": "In which city was Babar Azam born — the batsman who became the top-ranked ODI batter in the world across multiple years?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W015",
+          "prompt": "At which Barbados ground did West Indies beat England in a 2019 Test after England were dismissed for just 77 in the first innings?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B022",
+          "prompt": "Where did Bangladesh record their biggest Test win by an innings margin — against Zimbabwe in Mirpur in 2018?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL018",
+          "prompt": "In which city was Muttiah Muralitharan born — the spinner who took a world-record 800 Test wickets?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF003",
+          "prompt": "At which ground in India did Afghanistan play their first-ever Test match, against India in June 2018?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "questions": [
+        {
+          "id": "P019",
+          "prompt": "In which Punjab city was Javed Miandad born — Pakistan's most experienced Test batsman with 8,832 runs?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W010",
+          "prompt": "At which ground in Trinidad did the West Indies beat England in the famous 1976 Test series opener, with Viv Richards scoring a brilliant century?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B007",
+          "prompt": "In which port city of Bangladesh is the Zahur Ahmed Chowdhury Stadium, a key Test venue?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL027",
+          "prompt": "At which ground did Arjuna Ranatunga controversially call a runner for his own use against Australia in the 1996 World Cup?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF002",
+          "prompt": "In which city was Rashid Khan born — Afghanistan's greatest-ever cricketer who became the world's top-ranked T20I bowler?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "questions": [
+        {
+          "id": "E011",
+          "prompt": "Where did Jos Buttler hit a match-winning 73* to help England beat Pakistan in the 2022 T20 World Cup final?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I019",
+          "prompt": "Where did India clinch the 1983 ODI World Cup by defeating two-time defending champions West Indies in the final?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A005",
+          "prompt": "Where did Shane Warne bowl his famous 'Ball of the Century' to dismiss Mike Gatting in the 1993 Ashes?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Historic",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N015",
+          "prompt": "In which New Zealand city is the Seddon Park ground, which hosted Brendon McCullum's explosive final Test innings?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S022",
+          "prompt": "Where did South Africa beat India by 7 wickets in a 2023 ODI World Cup match — one of India's only group-stage defeats?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "questions": [
+        {
+          "id": "E009",
+          "prompt": "At which Nottingham ground did England bowl Australia out for 60 in the 2015 Ashes, with Stuart Broad taking 8–15?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I020",
+          "prompt": "In which Himachal Pradesh hill station city is the highest international cricket stadium in the world?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A013",
+          "prompt": "Where did Meg Lanning score 152* to lead Australia Women to victory over England in a 2014 Ashes ODI at a record run-chase?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N017",
+          "prompt": "In which New Zealand city was Sir Richard Hadlee born — the man who became the first bowler to 400 Test wickets?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S010",
+          "prompt": "At which ground did South Africa record their first Test victory over Australia in Australia — at the SCG in 1993-94?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "questions": [
+        {
+          "id": "P010",
+          "prompt": "Where did Sana Mir become Pakistan Women's most-capped ODI cricketer — captaining them in the 2017 Women's World Cup?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W018",
+          "prompt": "At which ground did Kieron Pollard hit West Indies to victory in a crucial 2021 T20I series against Sri Lanka?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B002",
+          "prompt": "In which city was Shakib Al Hasan born — widely considered Bangladesh's greatest-ever cricketer?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL025",
+          "prompt": "In which southern Sri Lankan city is the Jayawardena-Sangakkara's home province ground, a venue used for domestic cricket?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Domestic",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF021",
+          "prompt": "At which Abu Dhabi ground did Afghanistan play a key T20I against Zimbabwe during their rise to Full ICC membership?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "questions": [
+        {
+          "id": "P012",
+          "prompt": "In which Multan city is the Multan Cricket Stadium, a Test venue that first hosted international cricket only in 2001?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W028",
+          "prompt": "Where did West Indies record their highest ODI total of 372/2 against Zimbabwe in 2016?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "ODI",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B023",
+          "prompt": "In which Chittagong city was Rubel Hossain born — the fast bowler who starred in Bangladesh's 2015 World Cup campaign?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL010",
+          "prompt": "In which Sri Lankan coastal town is the Galle International Stadium, a ground famous for its beautiful fortress backdrop?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF027",
+          "prompt": "At which ground did Afghanistan qualify for their first men's ODI World Cup — at the 2010 ICC World Cricket League Championship?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "questions": [
+        {
+          "id": "E018",
+          "prompt": "At which Birmingham ground did England defeat Australia in a classic 2009 Ashes Test, with Andrew Flintoff's inspirational display?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I014",
+          "prompt": "In which city was Mithali Raj born, the woman who became the highest run-scorer in Women's Test cricket?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A024",
+          "prompt": "At which Gabba ground did India end Australia's 32-year unbeaten home Test record in January 2021?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N008",
+          "prompt": "At which ground did New Zealand beat India in the inaugural ICC World Test Championship final in 2021?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S011",
+          "prompt": "In which city was Graeme Smith born — the left-handed opener who captained South Africa more than any other player?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "questions": [
+        {
+          "id": "E021",
+          "prompt": "At which historic Kent ground did England's Jack Hobbs score many of his 197 first-class centuries?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I030",
+          "prompt": "At which large Mumbai suburban ground did the Mumbai Indians play their first IPL home match in 2008?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Domestic",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A002",
+          "prompt": "In which Queensland city was Pat Cummins born, the city that is also home to Gabba cricket ground?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N029",
+          "prompt": "At which Southampton venue did New Zealand defeat India to win the inaugural ICC World Test Championship final in 2021?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S019",
+          "prompt": "Where did South Africa win their first-ever T20 World Cup match against India in 2007?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "questions": [
+        {
+          "id": "P009",
+          "prompt": "At which Faisalabad stadium did Waqar Younis take his 400th Test wicket — a milestone for Pakistan's great reverse swing bowler?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W022",
+          "prompt": "At which Sabina Park ground did West Indies complete a famous Test match win over England with all four innings completed in a single day?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B026",
+          "prompt": "In which river-delta city is the Khulna Cricket Stadium, a ground that has hosted domestic cricket in Bangladesh?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL007",
+          "prompt": "At which Durban ground did Sri Lanka beat India in the 2003 World Cup Super Six stage?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF012",
+          "prompt": "In which city was Mujeeb Ur Rahman born — Afghanistan's mystery spinner who bamboozled batsmen from age 17?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "questions": [
+        {
+          "id": "P018",
+          "prompt": "At which Oval ground did Pakistan Women's captain Nida Dar score a crucial half-century in a 2023 Women's T20 World Cup match?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W025",
+          "prompt": "Where did the West Indies beat England in the 1975 World Cup final — the inaugural ODI World Cup?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B030",
+          "prompt": "At which Sylhet ground did Bangladesh beat South Africa in their first-ever Test against them in 2002?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL013",
+          "prompt": "At which Colombo ground did Sri Lanka beat India in the 2014 T20 World Cup final by 6 wickets?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF028",
+          "prompt": "In which Pakistani city near Khyber Pass did many Afghan cricketers first learn the game as refugees in the 1980s and 1990s?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "questions": [
+        {
+          "id": "E005",
+          "prompt": "At which Birmingham ground did England Women beat India to win the 2017 Women's Cricket World Cup final?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Women's",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I024",
+          "prompt": "Where did Deepti Sharma take her controversial 'Mankad' run-out of England's Charlotte Dean in a 2022 Women's ODI?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Women's",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A027",
+          "prompt": "At which ground did Beth Mooney play a crucial role in Australia Women's dominant 2022 Women's World Cup campaign?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N004",
+          "prompt": "In which city is the Basin Reserve, New Zealand's oldest Test match ground, established as a cricket ground in 1868?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S005",
+          "prompt": "Where did Dale Steyn take his 400th Test wicket, becoming South Africa's leading wicket-taker at the time?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "questions": [
+        {
+          "id": "E008",
+          "prompt": "Where did England defeat Pakistan in the 1992 World Cup final to claim their first men's ODI World Cup title?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I004",
+          "prompt": "In which city was Sachin Tendulkar born, the city where he also played most of his domestic cricket for Bombay?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A028",
+          "prompt": "Where did David Warner score a 87-ball century in a 2015 T20 International against India in Australia?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N010",
+          "prompt": "In which Otago city is the University Oval ground, a scenic ground where New Zealand have played Tests?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S017",
+          "prompt": "In which city was Barry Richards born — one of the game's greatest batsmen who played only 4 Tests due to the apartheid ban?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "questions": [
+        {
+          "id": "P020",
+          "prompt": "At which ground did Pakistan beat England in a dramatic rain-affected T20 match in the 2021 T20 World Cup group stage?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W005",
+          "prompt": "At which Antigua ground did West Indies beat England by an innings in the 2004 Test where Lara scored his record 400*?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B009",
+          "prompt": "In which city was Tamim Iqbal born — the left-handed opener who became Bangladesh's most prolific run-scorer?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL003",
+          "prompt": "At which Galle venue did Muttiah Muralitharan dismiss Pragyan Ojha to take his 800th and final Test wicket in 2010?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka",
+          "verification": {
+            "eventSourceUrl": "https://www.espncricinfo.com/series/india-tour-of-sri-lanka-2010-456401/sri-lanka-vs-india-1st-test-456412/match-report",
+            "venueSourceUrl": "https://en.wikipedia.org/wiki/Galle_International_Stadium",
+            "locationSourceUrl": "https://www.openstreetmap.org/way/232724482"
+          }
+        },
+        {
+          "id": "AF008",
+          "prompt": "In which city was Mohammad Nabi born — Afghanistan's legendary all-rounder who led the team in their early international years?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "questions": [
+        {
+          "id": "P013",
+          "prompt": "Where did Javed Miandad score a last-ball six off Chetan Sharma to win a 1986 Austral-Asia Cup match for Pakistan?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W016",
+          "prompt": "At which Georgetown ground in Guyana did West Indies beat England in a 2019 Test — a famous fortress for West Indian cricket?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B014",
+          "prompt": "In which city was Mushfiqur Rahim born — Bangladesh's veteran wicket-keeper batsman and one of their all-time greats?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL021",
+          "prompt": "In which city was Roshan Mahanama born — the Sri Lankan batsman who shared a 576-run stand with Jayasuriya in 1997?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF009",
+          "prompt": "At which Sharjah ground did Afghanistan regularly play home matches for many years when they could not host at home?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "questions": [
+        {
+          "id": "E029",
+          "prompt": "At which ground did England Women's captain Charlotte Edwards play her 200th ODI, a world record at the time?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I005",
+          "prompt": "Which iconic Ahmedabad venue, the world's largest cricket stadium, hosted Australia's victory over India in the 2023 Men's ODI World Cup final?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A009",
+          "prompt": "At which Queensland ground did Australia defeat New Zealand in the 1987 World Cup semi-final, on the path to their first World Cup?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N016",
+          "prompt": "At which historic Wellington cricket ground did New Zealand win crucial Test matches during the 2019–2021 World Test Championship cycle to qualify for the inaugural WTC final?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S004",
+          "prompt": "In which city is Newlands Cricket Ground, widely considered one of the most scenic Test venues in the world with a mountain backdrop?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "questions": [
+        {
+          "id": "E030",
+          "prompt": "Where did England's eccentric spinner Derek Underwood take 7–50 to dismiss Australia on a sticky wicket in the 1968 Ashes?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I008",
+          "prompt": "At which Mirpur cricket stadium did India and Sri Lanka contest the 2014 ICC Men's T20 World Cup final?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A019",
+          "prompt": "In which New South Wales city is the hometown of Matthew Hayden, who set the Test batting record with 380 in 2003?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N002",
+          "prompt": "In which New Zealand city was Kane Williamson born — the captain who led New Zealand to two consecutive World Cup finals?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S028",
+          "prompt": "Where did South Africa play their first Test match back in international cricket after the end of apartheid — against West Indies in 1991?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "questions": [
+        {
+          "id": "P015",
+          "prompt": "At which Rawalpindi ground did Pakistan play their first home Test series in 16 years — against Bangladesh in 2020?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W007",
+          "prompt": "In which Barbados parish is Kensington Oval, the ground where West Indies have played their most iconic home Tests?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B027",
+          "prompt": "At which ground did Nigar Sultana Joty score Bangladesh Women's first ODI century in 2022?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL011",
+          "prompt": "At which ground did Chamari Athapaththu score the highest innings by a Sri Lanka Woman in ODIs — 178* against Australia in 2017?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF015",
+          "prompt": "At which Dehradun ground in India did Afghanistan play 'home' Test matches from 2018 due to security concerns?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "questions": [
+        {
+          "id": "P028",
+          "prompt": "At which Lahore ground did Sri Lanka defeat Australia in the final of the 1996 Men's Cricket World Cup?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Pakistan",
+          "verification": {
+            "eventSourceUrl": "https://en.wikipedia.org/wiki/1996_Cricket_World_Cup_final",
+            "venueSourceUrl": "https://www.espncricinfo.com/series/wills-world-cup-1995-96-60981/australia-vs-sri-lanka-final-65192/match-report",
+            "locationSourceUrl": "https://www.openstreetmap.org/way/172700971"
+          }
+        },
+        {
+          "id": "W008",
+          "prompt": "Where did Chris Gayle score 333 against Sri Lanka in a 2010 Test — a West Indies Test record at the time?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B010",
+          "prompt": "At which Dhaka ground did Bangladesh complete their first Test series win over England in 2016?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL016",
+          "prompt": "In which central Sri Lankan city is the Pallekele International Cricket Stadium, set in the scenic highlands?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF022",
+          "prompt": "In which Afghan city did cricket first gain popularity after refugees returned from Pakistan in the 1990s and 2000s?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "questions": [
+        {
+          "id": "E010",
+          "prompt": "In which Yorkshire city was Joe Root born, and where he began his cricketing career at the local cricket academy?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I012",
+          "prompt": "In which Rajasthan city is the Sawai Mansingh Stadium, where India played their first home T20 International in 2006?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A014",
+          "prompt": "At which Gabba ground did Marnus Labuschagne make his Test debut, as an emergency concussion substitute for Steve Smith in 2019?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N027",
+          "prompt": "In which New Zealand city is Saxton Oval, a ground that has hosted New Zealand Women's home fixtures?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S013",
+          "prompt": "At which ground did Shabnim Ismail bowl an over of 6 wides — against England in a 2017 Women's World Cup T20I?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "questions": [
+        {
+          "id": "E012",
+          "prompt": "At which historic ground did W.G. Grace play most of his cricket for Gloucestershire from the 1870s onwards?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I028",
+          "prompt": "At which New Zealand ground did India beat New Zealand in the semi-final of the 2019 Men's ODI World Cup?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A018",
+          "prompt": "At which Caribbean ground did Australia clinch the 2003 Women's World Cup Final against India?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N014",
+          "prompt": "At which ground did Devon Conway score 200 on Test debut against England, the highest score on debut at Lord's?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S020",
+          "prompt": "In which Pretoria suburb is SuperSport Park, one of South Africa's premier Test and ODI venues?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "questions": [
+        {
+          "id": "P017",
+          "prompt": "Where did Pakistan beat England in the 2009 ICC Champions Trophy Final — a short rain-affected match?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "ODI",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W021",
+          "prompt": "In which Grenada city is the National Cricket Stadium, which hosted matches in the 2007 Cricket World Cup?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B025",
+          "prompt": "Where did Bangladesh win a 2016 Asia Cup T20 match against Pakistan — causing a shock in the tournament?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL029",
+          "prompt": "Where did Sri Lanka beat India in a 2010 T20I series at the R. Premadasa Stadium to showcase their T20 strength?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "T20",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF004",
+          "prompt": "In which city is the Kandahar Cricket Stadium, one of Afghanistan's main domestic cricket grounds?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "questions": [
+        {
+          "id": "P014",
+          "prompt": "In which city was Shahid Afridi born — the explosive all-rounder whose ODI century record of 37 balls held for years?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W002",
+          "prompt": "In which Trinidad city was Brian Lara born — the birthplace of the man who holds the records for highest Test and first-class individual scores?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B006",
+          "prompt": "At which Mirpur ground did Tamim Iqbal score 151 against Zimbabwe to set Bangladesh's highest individual ODI score in 2013?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "ODI",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL028",
+          "prompt": "In which city is the R. Premadasa Stadium, one of Sri Lanka's largest cricket grounds and a T20 World Cup venue?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF023",
+          "prompt": "At which Colombo ground did Rashid Khan take 5 wickets in the T20 World Cup 2021 group stage against New Zealand?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "questions": [
+        {
+          "id": "E028",
+          "prompt": "In which south London suburb is The Oval cricket ground, home to Surrey CCC and England Tests since 1880?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I011",
+          "prompt": "Where did India win the inaugural T20 World Cup in 2007 by 5 runs over Pakistan in the final?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "T20",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A011",
+          "prompt": "At which Adelaide ground did Ricky Ponting score 242 against India in 2003, Australia's highest individual score in a home Test?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N013",
+          "prompt": "In which city is Eden Park, where New Zealand played South Africa in the 2015 World Cup semi-final — a Grant Elliott six to win?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "World Cup",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S014",
+          "prompt": "In which city is St George's Park, South Africa's oldest international cricket ground, first used for Tests in 1889?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "questions": [
+        {
+          "id": "E025",
+          "prompt": "Where did Graham Gooch score 333 in an Ashes Test, the highest individual innings at Lord's at the time?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I018",
+          "prompt": "At which ground did Jasprit Bumrah take a match-winning 6-wicket haul against England in the decisive 2021 Test at Edgbaston?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A015",
+          "prompt": "In which city was Adam Gilchrist born — the wicket-keeper batsman who revolutionised batting in the lower order?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N019",
+          "prompt": "Where did Suzie Bates play her 100th T20I — a record-breaking moment in Women's cricket history?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S021",
+          "prompt": "At which stadium did AB de Villiers make his Test debut against England in December 2004?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "questions": [
+        {
+          "id": "P023",
+          "prompt": "At which ground did Pakistan beat India by 5 wickets in the 2017 ICC Champions Trophy Final — their biggest global tournament win?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "ODI",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W014",
+          "prompt": "In which Jamaica city was Courtney Walsh born — the fast bowler who was the first to 500 Test wickets?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B018",
+          "prompt": "At which ground did Bangladesh Women beat Pakistan Women to qualify for the Women's T20 World Cup semi-finals in 2014?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL004",
+          "prompt": "In which city was Mahela Jayawardene born — the elegant batsman who scored 11,814 Test runs for Sri Lanka?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Famous Players",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF020",
+          "prompt": "In which city was Asghar Afghan born — Afghanistan's most successful Test captain who led them to their first Test win?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "questions": [
+        {
+          "id": "P004",
+          "prompt": "In which Rawalpindi city was Imran Khan born — Pakistan's World Cup-winning captain who later became Prime Minister?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W003",
+          "prompt": "At which Antigua ground did Lara score his then-world-record 375 in 1994, against England?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Test",
+          "featuredTeam": "West Indies",
+          "verification": {
+            "eventSourceUrl": "https://www.espncricinfo.com/series/england-tour-of-west-indies-1993-94-61742/west-indies-vs-england-5th-test-63643/match-report",
+            "venueSourceUrl": "https://en.wikipedia.org/wiki/Antigua_Recreation_Ground",
+            "locationSourceUrl": "https://www.openstreetmap.org/way/19881397"
+          }
+        },
+        {
+          "id": "B008",
+          "prompt": "Where did Bangladesh record their most famous World Cup win, beating India in the 2007 ODI World Cup by 5 wickets?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "World Cup",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL026",
+          "prompt": "Where did Sri Lanka clinch their 2022 Asia Cup title, beating Pakistan in the final at Sharjah?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "ODI",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF005",
+          "prompt": "At which Greater Noida ground did Afghanistan win their first Test match, beating Zimbabwe by an innings in 2019?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "questions": [
+        {
+          "id": "E017",
+          "prompt": "In which city was England's all-time leading ODI scorer Eoin Morgan born — his birthplace, though he represented Ireland before England?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I029",
+          "prompt": "In which city was Bishan Singh Bedi born — the renowned left-arm spinner who captained India in the 1970s?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A023",
+          "prompt": "Where did Dennis Lillee take his 355th Test wicket to become the world's leading wicket-taker at the time in 1981?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N024",
+          "prompt": "At which Auckland ground did the famous '22 yards' cricket pitch first get cut in New Zealand's very first Test in 1930?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S025",
+          "prompt": "Where did Hashim Amla score 311 not out against England — a new South African Test record in 2012?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "questions": [
+        {
+          "id": "E019",
+          "prompt": "At which Lord's Nursery ground did England's cricket academy help develop stars like Stuart Broad and Steven Finn?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I015",
+          "prompt": "Where did Harmanpreet Kaur score a sensational 171* to guide India to the 2017 Women's World Cup semi-final against Australia?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Women's",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A016",
+          "prompt": "At which Perth ground did Australia play their first Test at Optus Stadium — replacing the old WACA — in 2018?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N020",
+          "prompt": "At which large Auckland stadium was the 1992 ODI World Cup match between New Zealand and Zimbabwe played?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "World Cup",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S002",
+          "prompt": "In which Johannesburg suburb was Kagiso Rabada born — South Africa's leading fast bowler in Tests and T20Is?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Famous Players",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "questions": [
+        {
+          "id": "P021",
+          "prompt": "At which Lahore ground did Pakistan host international cricket for the first time in 10 years when Sri Lanka visited in 2009 — before the terrorist attack?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W012",
+          "prompt": "At which Barbados ground did West Indies win the 2016 T20 World Cup, with Carlos Brathwaite hitting four sixes off Ben Stokes?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "T20",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B005",
+          "prompt": "Where did Bangladesh score their first-ever Test victory — against Zimbabwe at Bulawayo in 2005?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL015",
+          "prompt": "At which Pallekele ground did Sri Lanka beat Pakistan in a 2011 Test — a venue that has hosted Tests since 2010?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF007",
+          "prompt": "At which ICC Global Cricket Academy in Dubai did Afghanistan train during their years without a home international ground?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "questions": [
+        {
+          "id": "P006",
+          "prompt": "In which city is the National Stadium, Pakistan's largest cricket ground and the venue for Tests in Karachi?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Pakistan"
+        },
+        {
+          "id": "W029",
+          "prompt": "In which Barbados town is Kensington Oval, named after an estate that was one of the island's sugar plantations?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Historic",
+          "featuredTeam": "West Indies"
+        },
+        {
+          "id": "B019",
+          "prompt": "Where did Bangladesh earn a historic ODI series victory over South Africa — a significant step forward in 2015?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "ODI",
+          "featuredTeam": "Bangladesh"
+        },
+        {
+          "id": "SL022",
+          "prompt": "At which Hambantota ground did Sri Lanka host the 2012 T20 World Cup matches in a brand-new coastal stadium?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Sri Lanka"
+        },
+        {
+          "id": "AF030",
+          "prompt": "In which city was Ibrahim Zadran born — the young opening batsman who scored Afghanistan's highest ODI score in 2024?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "Afghanistan"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "questions": [
+        {
+          "id": "E022",
+          "prompt": "In which Lancashire city is Burnley's Turf Moor cricket ground, which is the home of Anderson's boyhood club?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Famous Players",
+          "featuredTeam": "England"
+        },
+        {
+          "id": "I006",
+          "prompt": "Where did Anil Kumble take all 10 wickets in a single innings against Pakistan in 1999 — one of cricket's rarest feats?",
+          "map": "world",
+          "difficulty": "Medium",
+          "category": "Test",
+          "featuredTeam": "India"
+        },
+        {
+          "id": "A004",
+          "prompt": "In which South Australian city is Adelaide Oval, where the famous day-night Test was first played in 2015?",
+          "map": "world",
+          "difficulty": "Easy",
+          "category": "Iconic Stadiums",
+          "featuredTeam": "Australia"
+        },
+        {
+          "id": "N025",
+          "prompt": "Where did Nathan Astle score the fastest double century in Tests, reaching 200 off just 153 balls against England in 2002?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Test",
+          "featuredTeam": "New Zealand"
+        },
+        {
+          "id": "S016",
+          "prompt": "At which Centurion ground did South Africa beat England in a one-day international after declaring to set up a target during controversial Hansie Cronje fix?",
+          "map": "world",
+          "difficulty": "Hard",
+          "category": "Historic",
+          "featuredTeam": "South Africa"
+        }
+      ]
+    }
+  ]
+}

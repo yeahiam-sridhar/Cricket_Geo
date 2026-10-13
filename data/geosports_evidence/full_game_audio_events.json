@@ -1,0 +1,17 @@
+[
+  "[AudioHook] OscillatorNode: type=triangle, freq=880Hz, at=22751.5ms",
+  "[AudioHook] AudioBufferSource: dur=4.109916666666667s, at=23877.8ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=523.25Hz, at=25554.2ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=659.25Hz, at=25554.5ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=783.989990234375Hz, at=25554.7ms",
+  "[AudioHook] OscillatorNode: type=triangle, freq=880Hz, at=30110.8ms",
+  "[AudioHook] AudioBufferSource: dur=4.109916666666667s, at=30911.5ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=523.25Hz, at=32913.1ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=659.25Hz, at=32913.4ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=783.989990234375Hz, at=32913.6ms",
+  "[AudioHook] OscillatorNode: type=triangle, freq=880Hz, at=38608.8ms",
+  "[AudioHook] AudioBufferSource: dur=4.109916666666667s, at=39410.0ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=523.25Hz, at=41410.6ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=659.25Hz, at=41410.8ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=783.989990234375Hz, at=41410.9ms"
+]

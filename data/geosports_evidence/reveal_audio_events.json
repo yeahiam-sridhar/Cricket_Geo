@@ -1,0 +1,7 @@
+[
+  "[AudioHook] OscillatorNode: type=triangle, freq=880Hz, at=21235.5ms",
+  "[AudioHook] AudioBufferSource: dur=4.109916666666667s, at=22287.0ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=523.25Hz, at=24036.4ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=659.25Hz, at=24036.7ms",
+  "[AudioHook] OscillatorNode: type=sine, freq=783.989990234375Hz, at=24036.8ms"
+]

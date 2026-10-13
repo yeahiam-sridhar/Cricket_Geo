@@ -1,0 +1,203 @@
+@import "maplibre-gl/dist/maplibre-gl.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-space: #020408;
+  --bg-surface: #070d14;
+  --bg-surface-elevated: #0d1522;
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-highlight: rgba(255, 255, 255, 0.16);
+  --accent-cricket: #10b981;
+  --accent-venue: #3b82f6;
+  --accent-arc: #ef4444;
+  --accent-score: #f59e0b;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+}
+
+body {
+  background-color: var(--bg-space);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+/* MapLibre 3D Globe Base Styles */
+.maplibregl-map {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #020408 !important;
+  font-family: inherit;
+  touch-action: none;
+}
+
+.maplibregl-canvas {
+  width: 100% !important;
+  height: 100% !important;
+  outline: none;
+  touch-action: none;
+}
+
+/* Safe area insets for mobile devices */
+.pt-safe {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.pl-safe {
+  padding-left: env(safe-area-inset-left, 0px);
+}
+.pr-safe {
+  padding-right: env(safe-area-inset-right, 0px);
+}
+
+/* Prevent auto-zoom on mobile inputs */
+@media screen and (max-width: 768px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Compact discrete attribution */
+.maplibregl-ctrl-attrib {
+  background-color: rgba(2, 4, 8, 0.7) !important;
+  color: #64748b !important;
+  font-size: 9px !important;
+  border-radius: 6px !important;
+  margin: 6px !important;
+  padding: 2px 6px !important;
+  backdrop-filter: blur(4px);
+}
+
+.maplibregl-ctrl-attrib a {
+  color: #94a3b8 !important;
+  text-decoration: none !important;
+}
+
+.maplibregl-ctrl-attrib a:hover {
+  text-decoration: underline !important;
+}
+
+/* Dark Mode Navigation Controls */
+.maplibregl-ctrl-group {
+  background-color: rgba(7, 13, 20, 0.85) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 8px 24px -4px rgba(0, 0, 0, 0.6) !important;
+  overflow: hidden;
+  backdrop-filter: blur(8px);
+}
+
+.maplibregl-ctrl-group button {
+  width: 32px !important;
+  height: 32px !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+@media (max-width: 640px) {
+  .maplibregl-ctrl-group button {
+    width: 38px !important;
+    height: 38px !important;
+  }
+}
+
+.maplibregl-ctrl-group button:last-child {
+  border-bottom: none !important;
+}
+
+.maplibregl-ctrl-icon {
+  filter: invert(1) brightness(0.85) !important;
+}
+
+/* Marker Ripple Rings */
+.pin-ripple {
+  position: absolute;
+  inset: -6px;
+  border-radius: 9999px;
+  pointer-events: none;
+  animation: ripple 2s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+.pin-ripple.ring-1 {
+  animation-delay: 0s;
+}
+
+.pin-ripple.ring-2 {
+  animation-delay: 0.6s;
+}
+
+.pin-ripple.ring-3 {
+  animation-delay: 1.2s;
+}
+
+@keyframes ripple {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+
+/* Subtle Marker Drop Entrance */
+.marker-drop {
+  animation: drop-in 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes drop-in {
+  0% {
+    transform: translateY(-16px) scale(0.8);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+/* Target Venue Radar Rings */
+.target-radar-ring {
+  position: absolute;
+  inset: -12px;
+  border-radius: 9999px;
+  border: 1.5px solid rgba(59, 130, 246, 0.75);
+  pointer-events: none;
+  animation: radar-pulse 2.2s cubic-bezier(0.1, 0.4, 0.2, 1) infinite;
+}
+
+.target-radar-ring.ring-1 {
+  animation-delay: 0s;
+}
+
+.target-radar-ring.ring-2 {
+  animation-delay: 1s;
+}
+
+@keyframes radar-pulse {
+  0% {
+    transform: scale(0.4);
+    opacity: 0.95;
+  }
+  100% {
+    transform: scale(3.2);
+    opacity: 0;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .pin-ripple,
+  .marker-drop,
+  .target-radar-ring {
+    animation: none !important;
+  }
+}
