@@ -15,6 +15,9 @@ export const metadata: Metadata = {
   title: "CricketGeo — Daily Cricket Geography Game",
   description:
     "Daily sports geography game. Tap where it happened. 5 questions on historic cricket grounds and legendary moments.",
+  other: {
+    "google-adsense-account": "ca-pub-9834644151403431",
+  },
 };
 
 export default function RootLayout({
